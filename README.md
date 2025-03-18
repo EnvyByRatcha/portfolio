@@ -12,5 +12,6 @@ Welcome to my personal web portfolio! This project showcases my skills, experien
 ## Technologies Used
 
 - **React** (Optional): For building reusable UI components.
-- **Git**: Version control to track changes and collaborate.
 - **Tailwind** (Optional): For responsive layout and components.
+
+💡 Built with ❤️ by @EnvyByRatcha
